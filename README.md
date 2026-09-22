@@ -1,2 +1,9 @@
-# Bitcoin-and-Beyond
-This insightful book delves into Bitcoin’s evolution and broader financial landscape implications. It comprehensively analyses the cryptocurrency market, exploring various competitors and emerging trends. Ideal for those interested in understanding Bitcoin's role and future potential in a rapidly changing financial environment.
+# Bitcoin and Beyond
+
+**Status: book/content repository — not a production software product.**
+
+This repository supports a writing/research project about Bitcoin, cryptocurrencies, and the broader financial landscape.
+
+The material is educational and may become outdated as markets, protocols, regulation, and industry practices change. It should not be treated as investment, legal, tax, or financial advice.
+
+For maintained engineering projects, see https://github.com/elon00.
