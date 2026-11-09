@@ -1,35 +1,5 @@
 {
-  "engine": "REA_Reverse_Engineer_Anything",
-  "status": "STRUCTURE_RECONSTRUCTED",
-  "analyzed_files": 9,
-  "manifest": {
-    "amazon book link": {
-      "bytes": 38
-    },
-    "Bictoin and Beyond front page.jpg": {
-      "bytes": 170298
-    },
-    "README.md": {
-      "bytes": 490
-    },
-    "reports\\RAVEN_RSI_DIAGNOSTIC.json": {
-      "bytes": 388
-    },
-    "reports\\REA_ANALYSIS.json": {
-      "bytes": 620
-    },
-    "scripts\\rea_inspector.py": {
-      "bytes": 1485
-    },
-    "scripts\\rsi_engine.py": {
-      "bytes": 2039
-    },
-    "tests\\reality_check_harness.py": {
-      "bytes": 1250
-    },
-    ".github\\workflows\\qmoosa-rsi-rea-sync.yml": {
-      "bytes": 531
-    }
-  },
-  "timestamp": 1794220466
+  "engine": "REA_Inspector",
+  "timestamp": 1794238811,
+  "total_files": 9
 }
